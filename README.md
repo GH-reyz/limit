@@ -4,7 +4,7 @@
 
 #Installation 
 
-,,,,html
+```html
 wget -q -O /usr/bin/limit-speed "https://raw.githubusercontent.com/GH-reyz/limit/main/limit-speed.sh" && chmod +x /usr/bin/limit-speed && apt install make && apt install gcc && apt install shc
 
-,,,,
+````
